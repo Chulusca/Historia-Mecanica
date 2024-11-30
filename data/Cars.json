@@ -1,0 +1,69 @@
+[
+    {
+      "Modelo": "Toyota Corolla",
+      "Año": 2020,
+      "Cilindrada": "1.8L",
+      "AceiteMotor": "5W-30 Sintético",
+      "AceiteCaja": "ATF WS",
+      "PastillasFreno": "Bosch QuietCast",
+      "LiquidoDireccionHidraulica": "Dexron III",
+      "LiquidoFrenos": "DOT 4",
+      "FiltroAire": "K&N 33-2442",
+      "FiltroAceite": "Bosch 3330",
+      "FiltroCombustible": "Denso 23300-21010",
+      "Bujias": "NGK Iridium ILKAR7B11",
+      "Neumaticos": "195/65R15",
+      "EscobillasLimpiaparabrisas": "Bosch Aerotwin 24\"/16\"",
+      "Bombillas": {
+        "Faros": "H11 LED",
+        "LucesTraseras": "7443 LED",
+        "Intermitentes": "PY21W"
+      },
+      "Amortiguadores": "KYB Excel-G"
+    },
+    {
+      "Modelo": "Ford F-150",
+      "Año": 2022,
+      "Cilindrada": "3.5L EcoBoost",
+      "AceiteMotor": "5W-20 Sintético",
+      "AceiteCaja": "Mercon ULV",
+      "PastillasFreno": "Motorcraft BRSD-756",
+      "LiquidoDireccionHidraulica": "Motorcraft MERCON V",
+      "LiquidoFrenos": "DOT 4",
+      "FiltroAire": "Motorcraft FA-1902",
+      "FiltroAceite": "Motorcraft FL-500S",
+      "FiltroCombustible": "Motorcraft FG-1083",
+      "Bujias": "Motorcraft SP-534",
+      "Neumaticos": "275/65R18",
+      "EscobillasLimpiaparabrisas": "Rain-X Latitude 20\"/22\"",
+      "Bombillas": {
+        "Faros": "H13 LED",
+        "LucesTraseras": "7443 LED",
+        "Intermitentes": "3157K"
+      },
+      "Amortiguadores": "Bilstein 5100"
+    },
+    {
+      "Modelo": "Honda Civic",
+      "Año": 2018,
+      "Cilindrada": "2.0L",
+      "AceiteMotor": "0W-20 Sintético",
+      "AceiteCaja": "HCF-2",
+      "PastillasFreno": "Akebono ACT1364",
+      "LiquidoDireccionHidraulica": "Honda Power Steering Fluid",
+      "LiquidoFrenos": "DOT 3",
+      "FiltroAire": "Fram CA11265",
+      "FiltroAceite": "Fram PH7317",
+      "FiltroCombustible": "Bosch 0450905203",
+      "Bujias": "Denso Iridium SKJ20DR-M11",
+      "Neumaticos": "215/55R16",
+      "EscobillasLimpiaparabrisas": "Michelin Stealth 26\"/18\"",
+      "Bombillas": {
+        "Faros": "9005 LED",
+        "LucesTraseras": "7440 LED",
+        "Intermitentes": "T20"
+      },
+      "Amortiguadores": "Monroe OESpectrum"
+    }
+  ]
+  
